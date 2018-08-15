@@ -5,7 +5,8 @@
 
     <!--Content-->
     <LinearLayout
-        android:layout_margin="20dp"
+        android:background="@drawable/bg_white"
+        android:layout_marginTop="20dp"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -18,12 +19,14 @@
             android:layout_height="wrap_content" />
         <!--User-->
         <EditText
+            android:background="@drawable/email"
             android:inputType="textEmailAddress"
             android:hint="Email :"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <!--Passwird-->
         <EditText
+            android:background="@drawable/password"
             android:inputType="textPassword"
             android:hint="Password :"
             android:layout_width="match_parent"
@@ -37,12 +40,15 @@
 
             <!--Sign In -->
             <Button
+                android:background="@drawable/button_white"
                 android:layout_weight="1"
                 android:text="Sign In"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
             <!--Singn Out-->
             <Button
+                android:background="@drawable/button_white"
+                android:id="@+id/btnSignUp"
                 android:layout_weight="1"
                 android:text="Sing Up"
                 android:layout_width="match_parent"
