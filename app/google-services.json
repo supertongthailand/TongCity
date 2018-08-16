@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340948062284",
+    "firebase_url": "https://tongcity-9f389.firebaseio.com",
+    "project_id": "tongcity-9f389",
+    "storage_bucket": "tongcity-9f389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340948062284:android:73d7ef9f51001402",
+        "android_client_info": {
+          "package_name": "tong.thailand.com.tongcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340948062284-nlhhoi7dptpa331ecarigq41gu0108db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tong.thailand.com.tongcity",
+            "certificate_hash": "b3eac704dc8a0658a7edad3cff40608605852013"
+          }
+        },
+        {
+          "client_id": "340948062284-mku6h52sa5ltrj8sv93rsibpqs92ftj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt_r3RPRTfSM8s-M6oQ3Vx8iKui8km5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340948062284-mku6h52sa5ltrj8sv93rsibpqs92ftj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
